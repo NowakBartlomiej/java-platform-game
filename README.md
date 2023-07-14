@@ -1,3 +1,3 @@
-# java Platform Game
+# Java Platform Game
 
-![image](https://github.com/NowakBartlomiej/java-platform-game/assets/108576928/3d85215b-f2ac-49ae-8d18-989e67585082)
+https://github.com/NowakBartlomiej/java-platform-game/assets/108576928/690f119a-b9d1-4d23-ab93-df73d93ba3dd
